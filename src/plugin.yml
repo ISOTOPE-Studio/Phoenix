@@ -5,3 +5,8 @@ author: Mars
 description: Phoenix
 website: http://isotopestudio.cc
 version: 1.0.0
+
+commands:
+  reborn:
+    description: Phoenix command
+    usage: /<command> - Get Information
